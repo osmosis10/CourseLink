@@ -4,7 +4,7 @@
 ## Description
 CourseLink is a simple UI that automates certain tasks that are  
 needlessly time consuming when preparing Employee Learn Course  
-data to be uploaded to SAMI. CourseLink uses the following libraries
+data to be uploaded to SAMI (Sales and Marcom Intelligence). CourseLink uses the following libraries
 - Tkinter (For GUI)
 - Openpyxl (For excel functions)
 - PIL (For applying the icon.ico file for the app icon)
